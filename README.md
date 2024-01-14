@@ -1,4 +1,8 @@
 above program segragates on code wise while this below transfers data using logstash 
+
+
+
+
 input {
   jdbc {
     jdbc_driver_library => "C:/Users/eSewa/Desktop/mysql-conf/mysql-connector-j-8.2.0.jar"
